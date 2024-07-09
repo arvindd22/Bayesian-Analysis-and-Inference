@@ -1,2 +1,2 @@
-# Bayesian-Analysis-and-Inferance-
+# Bayesian-Analysis-and-Inference-
 Stamatics IIT Kanpur Project
