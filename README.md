@@ -5,7 +5,6 @@
 #### Approach
 • Utilized ArviZ for effective posterior visualization, predictive checks and for diagnostics of Bayesian models
 • Utilized PyMC3 for hierarchical models, expanded linear regression analysis techniques on complex data
-• Explored model averaging, modeling using Bambi, and interoperability with variable selection techniques
 
 Developed various Bayesian models using PyMC by probabilistic programming, incorporating Monte Carlo simulations, variational inference, and trace-based diagnostics and visualizations via ArviZ for enhanced model interpretability
 
